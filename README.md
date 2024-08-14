@@ -20,6 +20,3 @@ After installation, the addon is ready to use with the following steps:
 
 ## Contributing
 Contributions are welcome! If you have improvements or bug fixes, please open a pull request or an issue in the repository.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
